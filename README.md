@@ -5,10 +5,10 @@ Just to paint a picture of this premise, it is a four-bedroom house with a livin
 What was the problem? We were gambling with the electricity bill, and I needed to find out roughly the usage per day in terms of units and eventually an average monthly bill estimate.
 
 Data collection process
-1. Observation: I monitored how many units we were using in a day or 24 hours.
+1. Observation: I monitored how many units we were using in a day/24 hours.
 2. Recorded every payment that was being made for each month. This would indicate the total amount paid in a month plus the number of units.
    
-Business Task: Identify the average monthly utility bill for power for better financial planning.
+Business Task: Identify the average monthly utility bill for electricity for better financial planning.
 
 Thought process
 1. What do I need to have? I need the total paid per month and the total units per month for both years. (So I need to merge and have all this information in one sheet for easier analysis.)
